@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://aurora-institute.org/wp-content/uploads/Redefining-Student-Success-post-1024x768.jpg");
+background-repeat: none;
+}
+#heading
+{
+    display: flex;
+    justify-content: center;
+    color:black;
+    padding: 250px 57px 5px 5px;
+    margin: 50px 15px 0px 0px;
+}
+hr{
+    width: 62%;
+    margin-right: auto;
+    margin-left: auto;
+    float: right;
+    height: 2px;
+}
+#p1
+{
+    display: flex;
+    justify-content: center;
+    color:black;
+    padding: 10px 15px 5px 16px;
+    margin: 30px 15px 0px 0px;
+}
